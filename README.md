@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open (https://vercel.com/shi1523s-projects/portfolio) with your browser to see the result.
+Open (https://portfolio-eight-indol-1o8irv4nsl.vercel.app/) with your browser to see the result.
 
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
