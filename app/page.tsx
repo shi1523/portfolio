@@ -83,11 +83,14 @@ export default function Home() {
             </a>
 
             <a
-              href="/resume.pdf"
-              className="px-8 py-3 rounded-xl bg-gray-900 text-white hover:bg-gray-800 transition"
-            >
-              Resume
-            </a>
+  href="/resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-8 py-3 rounded-xl bg-gray-900 text-white hover:bg-gray-800 transition"
+>
+  Resume
+</a>
+
           </div>
         </div>
       </section>
